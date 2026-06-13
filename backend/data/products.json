@@ -1,0 +1,502 @@
+[
+  {
+    "id": "001",
+    "name": "Ocean Breeze Anarkali Kurta",
+    "price": 1899,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Light aqua georgette Anarkali with delicate silver gota work. Flowy floor-length silhouette perfect for beach weddings and seaside celebrations. Breathable, breezy fabric that moves gracefully in coastal winds.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/ocean-breeze-anarkali-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/ocean-breeze-anarkali-kurta"
+  },
+  {
+    "id": "002",
+    "name": "Sunset Peach Anarkali Set",
+    "price": 2199,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Soft peach chiffon Anarkali with golden zari border. Semi-sheer layers create an ethereal look for outdoor evening events. Lightweight and romantic with a flattering empire waist.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sunset-peach-anarkali-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/sunset-peach-anarkali-set"
+  },
+  {
+    "id": "003",
+    "name": "Ivory Festive Anarkali",
+    "price": 2499,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Classic ivory cotton-silk Anarkali with mirror work yoke. Traditional yet airy \u2014 ideal for mehendi ceremonies and daytime festive gatherings. Comfortable A-line flare with side slits.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/ivory-festive-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/ivory-festive-anarkali"
+  },
+  {
+    "id": "004",
+    "name": "Emerald Garden Anarkali",
+    "price": 2799,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Rich emerald green rayon Anarkali with floral block print. Earthy jewel tone for garden parties and festive brunches. Soft drape with three-quarter sleeves.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/emerald-garden-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/emerald-garden-anarkali"
+  },
+  {
+    "id": "005",
+    "name": "Blush Pink Party Anarkali",
+    "price": 3299,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Blush pink net Anarkali with sequin embellishment on bodice. Glamorous yet lightweight for cocktail receptions. Layered kalis create dramatic movement.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/blush-pink-party-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/blush-pink-party-anarkali"
+  },
+  {
+    "id": "006",
+    "name": "Terracotta Block Print Anarkali",
+    "price": 1699,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Warm terracotta cotton Anarkali with Rajasthani block print. Earthy, rustic aesthetic for casual festive wear. Breathable handloom cotton with mandarin collar.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/terracotta-block-print-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/terracotta-block-print-anarkali"
+  },
+  {
+    "id": "007",
+    "name": "Mustard Festive Anarkali",
+    "price": 1999,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Mustard yellow viscose Anarkali with contrast piping. Vibrant traditional hue for haldi and mehendi functions. Flowy kalis with comfortable round neck.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/mustard-festive-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/mustard-festive-anarkali"
+  },
+  {
+    "id": "008",
+    "name": "White Cotton Office Kurta",
+    "price": 899,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Crisp white pure cotton straight kurta with minimal embroidery. Professional and breathable for daily office wear in hot climates. Clean lines, knee-length cut, side pockets.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/white-cotton-office-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/white-cotton-office-kurta"
+  },
+  {
+    "id": "009",
+    "name": "Sky Blue Linen Kurta",
+    "price": 1099,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Sky blue linen-blend straight kurta with subtle thread work. Cool and comfortable for summer office days. Relaxed fit with mandarin collar and button placket.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sky-blue-linen-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/sky-blue-linen-kurta"
+  },
+  {
+    "id": "010",
+    "name": "Beige Formal Kurta",
+    "price": 999,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Neutral beige cotton straight kurta with fine pintuck detail. Versatile office staple that pairs with palazzos or trousers. Lightweight woven cotton.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/beige-formal-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/beige-formal-kurta"
+  },
+  {
+    "id": "011",
+    "name": "Sage Green Cotton Kurta",
+    "price": 849,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Sage green handloom cotton straight kurta. Earthy tone for casual office Fridays. Straight cut with three-quarter sleeves and band collar.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sage-green-cotton-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/sage-green-cotton-kurta"
+  },
+  {
+    "id": "012",
+    "name": "Navy Blue Work Kurta",
+    "price": 949,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Deep navy cotton straight kurta with white contrast buttons. Smart casual office wear. Structured cotton with clean finishing.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/navy-blue-work-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/navy-blue-work-kurta"
+  },
+  {
+    "id": "013",
+    "name": "Dusty Rose Office Kurta",
+    "price": 1199,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Dusty rose modal straight kurta with delicate lace trim on neckline. Feminine yet professional. Soft drape, wrinkle-resistant fabric.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/dusty-rose-office-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/dusty-rose-office-kurta"
+  },
+  {
+    "id": "014",
+    "name": "Charcoal Grey Cotton Kurta",
+    "price": 799,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Charcoal grey breathable cotton straight kurta. Under budget daily wear essential. Simple round neck, straight hem, easy care fabric.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/charcoal-grey-cotton-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/charcoal-grey-cotton-kurta"
+  },
+  {
+    "id": "015",
+    "name": "Mint Green Palazzo Set",
+    "price": 1799,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Mint green rayon kurta with matching wide-leg palazzo pants. Fresh and breezy for summer weddings. Kurta features delicate thread embroidery on yoke.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/mint-green-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/mint-green-palazzo-set"
+  },
+  {
+    "id": "016",
+    "name": "Coral Festive Palazzo Set",
+    "price": 2099,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Vibrant coral georgette kurta-palazzo co-ord with gold foil print. Festive yet comfortable for sangeet nights. Flowy palazzo with elastic waistband.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/coral-festive-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/coral-festive-palazzo-set"
+  },
+  {
+    "id": "017",
+    "name": "Lavender Dream Palazzo Set",
+    "price": 1899,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Soft lavender chiffon kurta with palazzo and dupatta. Romantic pastel palette for daytime celebrations. Sheer dupatta with lace border.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/lavender-dream-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/lavender-dream-palazzo-set"
+  },
+  {
+    "id": "018",
+    "name": "Olive Earth Tone Palazzo Set",
+    "price": 1699,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Olive green cotton kurta with printed palazzo pants. Earthy tones for nature-inspired festive looks. Block print palazzo with solid kurta.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/olive-earth-tone-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/olive-earth-tone-palazzo-set"
+  },
+  {
+    "id": "019",
+    "name": "Teal Party Palazzo Set",
+    "price": 2299,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Teal blue crepe kurta with sharara-style palazzo. Bold colour for evening parties. Embellished neckline with sequin detail.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/teal-party-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/teal-party-palazzo-set"
+  },
+  {
+    "id": "020",
+    "name": "Rust Brown Palazzo Set",
+    "price": 1599,
+    "currency": "INR",
+    "category": "Palazzo Set",
+    "description": "Warm rust brown cotton-silk kurta with palazzo. Rich earthy tone for autumn weddings. Minimal gold thread work on cuffs.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/rust-brown-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/rust-brown-palazzo-set"
+  },
+  {
+    "id": "021",
+    "name": "Golden Mehendi Sharara Set",
+    "price": 2499,
+    "currency": "INR",
+    "category": "Sharara Set",
+    "description": "Golden yellow georgette kurta with flared sharara pants. Traditional mehendi outfit with gota patti work. Wide sharara with can-can for volume and drama.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/golden-mehendi-sharara-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/golden-mehendi-sharara-set"
+  },
+  {
+    "id": "022",
+    "name": "Maroon Wedding Sharara Set",
+    "price": 3499,
+    "currency": "INR",
+    "category": "Sharara Set",
+    "description": "Deep maroon velvet-touch kurta with sharara and dupatta. Regal wedding guest ensemble. Heavy zari embroidery on kurta and dupatta border.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/maroon-wedding-sharara-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/maroon-wedding-sharara-set"
+  },
+  {
+    "id": "023",
+    "name": "Pink Festive Sharara Set",
+    "price": 2799,
+    "currency": "INR",
+    "category": "Sharara Set",
+    "description": "Hot pink net kurta with gold sharara pants. Bold festive statement for sangeet and mehendi. Mirror work on kurta bodice.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/pink-festive-sharara-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/pink-festive-sharara-set"
+  },
+  {
+    "id": "024",
+    "name": "Mehendi Green Sharara Set",
+    "price": 2199,
+    "currency": "INR",
+    "category": "Sharara Set",
+    "description": "Mehendi green cotton kurta with printed sharara. Classic traditional look for pre-wedding rituals. Comfortable cotton with festive mirror accents.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/mehendi-green-sharara-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/mehendi-green-sharara-set"
+  },
+  {
+    "id": "025",
+    "name": "Peach Embroidered Sharara Set",
+    "price": 2999,
+    "currency": "INR",
+    "category": "Sharara Set",
+    "description": "Peach organza kurta with embroidered sharara pants. Delicate and feminine for daytime wedding functions. Thread and sequin embroidery throughout.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/peach-embroidered-sharara-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/peach-embroidered-sharara-set"
+  },
+  {
+    "id": "026",
+    "name": "White Beach Co-ord Set",
+    "price": 1499,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "All-white cotton co-ord with crop top and wide pants. Minimal resort-wear aesthetic for beach weddings. Crisp cotton with crochet detail on top.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/white-beach-co-ord-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/white-beach-co-ord-set"
+  },
+  {
+    "id": "027",
+    "name": "Sand Beige Co-ord Set",
+    "price": 1699,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Sand beige linen co-ord with short kurta and culottes. Neutral earthy palette for coastal celebrations. Relaxed resort silhouette.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sand-beige-co-ord-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/sand-beige-co-ord-set"
+  },
+  {
+    "id": "028",
+    "name": "Sky Blue Co-ord Set",
+    "price": 1599,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Sky blue cotton co-ord with embroidered kurta and pants. Breezy coordinated look for summer events. Light embroidery on kurta hem.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sky-blue-co-ord-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/sky-blue-co-ord-set"
+  },
+  {
+    "id": "029",
+    "name": "Terracotta Co-ord Set",
+    "price": 1399,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Terracotta cotton co-ord with kurta and straight pants. Warm earthy tone for festive brunches. Hand block print on pants.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/terracotta-co-ord-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/terracotta-co-ord-set"
+  },
+  {
+    "id": "030",
+    "name": "Sage Co-ord Set",
+    "price": 1799,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Sage green modal co-ord with long kurta and palazzo-style pants. Soft earthy green for garden parties. Minimal gold buttons on kurta.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/sage-co-ord-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/sage-co-ord-set"
+  },
+  {
+    "id": "031",
+    "name": "Banarasi Silk Saree Red",
+    "price": 3999,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Rich red Banarasi silk saree with gold zari weave. Traditional wedding guest saree with heavy pallu. Luxurious drape for formal ceremonies.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/banarasi-silk-saree-red.jpg",
+    "product_url": "https://jaipurkurti.com/products/banarasi-silk-saree-red"
+  },
+  {
+    "id": "032",
+    "name": "Chiffon Saree Peach",
+    "price": 2499,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Peach chiffon saree with sequin border. Lightweight and elegant for evening receptions. Pre-stitched pleats option, flowy fabric.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/chiffon-saree-peach.jpg",
+    "product_url": "https://jaipurkurti.com/products/chiffon-saree-peach"
+  },
+  {
+    "id": "033",
+    "name": "Cotton Saree White Gold",
+    "price": 1899,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "White cotton saree with gold zari border. Classic festive saree for puja and religious ceremonies. Breathable handloom cotton.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/cotton-saree-white-gold.jpg",
+    "product_url": "https://jaipurkurti.com/products/cotton-saree-white-gold"
+  },
+  {
+    "id": "034",
+    "name": "Georgette Saree Emerald",
+    "price": 2199,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Emerald green georgette saree with silver booti print. Jewel tone for cocktail parties. Pre-pleated with attached blouse piece.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/georgette-saree-emerald.jpg",
+    "product_url": "https://jaipurkurti.com/products/georgette-saree-emerald"
+  },
+  {
+    "id": "035",
+    "name": "Linen Saree Beige",
+    "price": 1699,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Natural beige linen saree with minimal border. Earthy understated elegance for daytime events. Crisp linen with subtle sheen.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/linen-saree-beige.jpg",
+    "product_url": "https://jaipurkurti.com/products/linen-saree-beige"
+  },
+  {
+    "id": "036",
+    "name": "Organza Saree Lavender",
+    "price": 2799,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Lavender organza saree with floral embroidery. Romantic pastel for spring weddings. Sheer lightweight fabric with satin blouse.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/organza-saree-lavender.jpg",
+    "product_url": "https://jaipurkurti.com/products/organza-saree-lavender"
+  },
+  {
+    "id": "037",
+    "name": "Silk Saree Mustard",
+    "price": 3299,
+    "currency": "INR",
+    "category": "Saree",
+    "description": "Mustard yellow raw silk saree with temple border. Traditional South Indian inspired festive saree. Rich texture with contrast blouse.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/silk-saree-mustard.jpg",
+    "product_url": "https://jaipurkurti.com/products/silk-saree-mustard"
+  },
+  {
+    "id": "038",
+    "name": "Yellow Mehendi Dupatta Set",
+    "price": 1999,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Bright yellow kurta with contrasting sharara and net dupatta. Complete mehendi look with gota work dupatta. Traditional festive ensemble.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/yellow-mehendi-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/yellow-mehendi-dupatta-set"
+  },
+  {
+    "id": "039",
+    "name": "Pink Wedding Dupatta Set",
+    "price": 2899,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Blush pink kurta with palazzo and heavy embroidered dupatta. Wedding guest ready with statement dupatta. Zari and sequin dupatta border.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/pink-wedding-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/pink-wedding-dupatta-set"
+  },
+  {
+    "id": "040",
+    "name": "Green Festive Dupatta Set",
+    "price": 2199,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Bottle green velvet kurta with gold dupatta and pants. Rich festive look for Diwali and weddings. Velvet kurta with brocade dupatta.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/green-festive-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/green-festive-dupatta-set"
+  },
+  {
+    "id": "041",
+    "name": "Blue Party Dupatta Set",
+    "price": 2499,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Royal blue georgette kurta with sequin dupatta. Glamorous party wear with shimmer dupatta. Kurta with stone work neckline.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/blue-party-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/blue-party-dupatta-set"
+  },
+  {
+    "id": "042",
+    "name": "Orange Haldi Dupatta Set",
+    "price": 1799,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Vibrant orange cotton kurta with yellow dupatta. Perfect haldi ceremony outfit. Bright cheerful colours with minimal embroidery.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/orange-haldi-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/orange-haldi-dupatta-set"
+  },
+  {
+    "id": "043",
+    "name": "White Eid Dupatta Set",
+    "price": 2099,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Ivory white chikankari kurta with organza dupatta. Elegant understated festive wear. Lucknowi chikankari work on kurta.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/white-eid-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/white-eid-dupatta-set"
+  },
+  {
+    "id": "044",
+    "name": "Red Karva Chauth Dupatta Set",
+    "price": 2599,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Classic red kurta with gold dupatta and churidar pants. Traditional karva chauth and festive ensemble. Heavy dupatta with tassels.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/red-karva-chauth-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/red-karva-chauth-dupatta-set"
+  },
+  {
+    "id": "045",
+    "name": "Purple Evening Dupatta Set",
+    "price": 2699,
+    "currency": "INR",
+    "category": "Dupatta Set",
+    "description": "Deep purple crepe kurta with net dupatta and pants. Sophisticated evening festive look. Stone and pearl work on kurta.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/purple-evening-dupatta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/purple-evening-dupatta-set"
+  },
+  {
+    "id": "046",
+    "name": "Seafoam Beach Anarkali",
+    "price": 1949,
+    "currency": "INR",
+    "category": "Anarkali",
+    "description": "Seafoam green lightweight georgette Anarkali. Coastal wedding perfect \u2014 breezy, flowy, and photogenic. Sheer overlay with solid lining.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/seafoam-beach-anarkali.jpg",
+    "product_url": "https://jaipurkurti.com/products/seafoam-beach-anarkali"
+  },
+  {
+    "id": "047",
+    "name": "Brown Earthy Palazzo Set",
+    "price": 1649,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Chocolate brown cotton kurta with tan palazzo. Deep earthy tones for autumn festive events. Natural dye inspired colour palette.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/brown-earthy-palazzo-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/brown-earthy-palazzo-set"
+  },
+  {
+    "id": "048",
+    "name": "Khaki Office Kurta Set",
+    "price": 1149,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Khaki cotton kurta with matching pants. Under budget office wear co-ord. Wrinkle-free cotton blend, professional look.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/khaki-office-kurta-set.jpg",
+    "product_url": "https://jaipurkurti.com/products/khaki-office-kurta-set"
+  },
+  {
+    "id": "049",
+    "name": "Cream Daily Cotton Kurta",
+    "price": 799,
+    "currency": "INR",
+    "category": "Straight Kurta",
+    "description": "Cream off-white daily wear cotton kurta. Budget-friendly office essential under 1200. Soft breathable cotton, straight cut.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/cream-daily-cotton-kurta.jpg",
+    "product_url": "https://jaipurkurti.com/products/cream-daily-cotton-kurta"
+  },
+  {
+    "id": "050",
+    "name": "Turquoise Resort Co-ord",
+    "price": 1849,
+    "currency": "INR",
+    "category": "Co-ord Set",
+    "description": "Turquoise blue resort co-ord with crop kurta and pants. Beach vacation and wedding guest wear. Tropical vibe with tassel detail.",
+    "image_url": "https://jaipurkurti.com/cdn/shop/files/turquoise-resort-co-ord.jpg",
+    "product_url": "https://jaipurkurti.com/products/turquoise-resort-co-ord"
+  }
+]
